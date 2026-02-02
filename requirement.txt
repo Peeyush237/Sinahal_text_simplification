@@ -1,0 +1,8 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+torch>=2.2.0
+transformers>=4.33.2
+pandas>=2.0.3
+numpy>=1.24.3
+sentencepiece>=0.1.99
+requests>=2.31.0
