@@ -17,12 +17,12 @@ For detailed research, architecture, and metric explanations, see `PROJECT_EXPLA
 
 ## 🎥 Project Demo
 
-You can watch the full walkthrough of the application directly here:
+Most Markdown viewers (including many IDEs) do **not** play local `.mp4` files inline, so the embedded player may appear as an empty bar.  
+Use the link below to open the video in your default media player or browser:
 
-<video src="project demo final.mp4" width="700" controls>
-  Your browser does not support the video tag.  
-  You can also open the file directly: <code>project demo final.mp4</code>
-</video>
+- **Demo video**: [▶ Watch “project demo final.mp4”](project%20demo%20final.mp4)
+
+If that still doesn’t open in your viewer, open the file directly from your file explorer: `project demo final.mp4`.
 
 ---
 
