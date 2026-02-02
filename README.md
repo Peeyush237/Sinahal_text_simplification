@@ -17,9 +17,12 @@ For detailed research, architecture, and metric explanations, see `PROJECT_EXPLA
 
 ## 🎥 Project Demo
 
-- A walkthrough video of the app is included as:  
-  - `project demo final.mp4`  
-Open this file to see how to start the server, use the UI, and interpret the results.
+You can watch the full walkthrough of the application directly here:
+
+<video src="project demo final.mp4" width="700" controls>
+  Your browser does not support the video tag.  
+  You can also open the file directly: <code>project demo final.mp4</code>
+</video>
 
 ---
 
